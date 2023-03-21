@@ -8,7 +8,11 @@ Apaixonado por tecnologia e jogos desde criança, onde busquei ir atrás dos meu
 - 📚 Estudando fora da faculdade Python e banco de dados
 - 📧 Meu email para contato é murilolucas00@hotmail.com
 
-
+<div align="center">
+  <a href="https://github.com/MuriloLucas1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloLucas1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLucas1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
