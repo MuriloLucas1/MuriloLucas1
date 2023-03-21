@@ -22,7 +22,6 @@ Apaixonado por tecnologia e jogos desde criança, onde busquei ir atrás dos meu
 
 <div>
 <a href="https://www.linkedin.com/in/murilo-lucas-4263641a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/MuriloLucas1/MuriloLucas1/blob/output/github-contribution-grid-snake.svg)
 </div>
 
               
