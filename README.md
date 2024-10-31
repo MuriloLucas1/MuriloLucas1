@@ -1,6 +1,6 @@
 ### Olá, eu sou o Murilo Lucas 👋
 
-Apaixonado por tecnologia e jogos desde criança, onde busquei ir atrás dos meus sonhos e me formar para que eu tenha sucesso em minha carreira profissional.
+Apaixonado por tecnologia desde criança, onde busquei ir atrás dos meus sonhos e me formar para que eu tenha sucesso em minha carreira profissional.
 
 
 - 👨‍🎓 Graduado em Ciência da computação
