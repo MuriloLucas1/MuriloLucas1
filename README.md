@@ -3,8 +3,7 @@
 Apaixonado por tecnologia e jogos desde criança, onde busquei ir atrás dos meus sonhos e me formar para que eu tenha sucesso em minha carreira profissional.
 
 
-- 👨‍🎓 Graduando em Ciência da computação
-- 📚 Estudando fora da faculdade Python e banco de dados
+- 👨‍🎓 Graduado em Ciência da computação
 - 📧 Meu email para contato é murilolucas00@hotmail.com
 
 <div align="center">
